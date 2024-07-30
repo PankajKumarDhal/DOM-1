@@ -31,4 +31,4 @@ This project demonstrates the basics of HTML, JavaScript. It includes a simple w
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/simple-web-page-project.git
+   git clone https://github.com/your-username/simple-web-page-project.git](https://github.com/PankajKumarDhal/DOM-1.git
